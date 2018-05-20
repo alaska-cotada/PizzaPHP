@@ -1,0 +1,272 @@
+
+/*font-family: 'Indie Flower', cursive; */
+
+
+header {
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    z-index: 2;
+    position: relative;
+}
+
+a{
+   color: #c7692f;
+   text-decoration: none;
+}
+
+#menu {
+    margin: 12px 0;
+}
+#menu li {
+    font-family: 'Indie Flower', cursive;
+        font-size: 20px;
+}
+#menu ul li {
+    list-style: none;
+    float: left;
+    margin: 0 15px;
+}
+
+
+section #banner img{
+top: -130px;
+position: relative;
+}
+
+section .fancy-divider {
+    margin-top: -132px;
+    position: relative;
+}
+section .fancy-dividerDois{
+    margin-top: 0px;
+}
+
+
+section .dividir{
+    margin-top:-12px;
+}
+
+#produtos-container {
+    position: relative;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.text-center {
+    text-align: center;
+}
+
+.home-googlemaps {
+    margin-top: 71px;
+    margin-bottom: 71px;
+}
+
+iframe {
+ margin-top: 25px;
+}
+
+.googleMaps-edit{
+    border-width: thin;
+    border-style: solid;
+    border-color: #6C7A89;
+
+}
+
+.titulo-unidade {
+    font-family:'Gaegu', cursive; font-size: 35px;
+    text-align: center;
+    color: #663399;
+}
+
+.endereco-unidade {
+    font-family:'Gaegu', cursive; font-size: 25px;
+    text-align: center;
+    color: #947CB0;
+}
+
+ .col-full .nav-secundario {
+    content: "";
+    display: table;
+}
+
+.nav-secundario select {
+    display: inline-block;
+    max-width: 100%;
+    color: #8c8c8c;
+    font-size: .875em;
+    border: 1px solid #ebeaef;
+    vertical-align: middle;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAMAAACzvE1FAAAADFBMV…GzBYwzVXvznNWs8C58CiussPJj8h6NwgorrKRdTvuV9v16Afn0AYFOB7aYAAAAAElFTkSuQmCC) right 1em center/8px 10px no-repeat #fff;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    line-height: 1.4;
+    border-color: #ebeaef;
+    padding: .715em 2em .715em 1.6em;
+    border-radius: 50px;
+}
+
+.site-conteudo .col-full .nav-secundario form{
+    outline: 0;
+    position: relative;
+}
+
+
+
+
+
+.black {
+    color: #000;
+}
+
+.col-xs-6{
+    background: #ffcc00;
+
+
+   
+}
+
+
+.col-xs-2{
+     margin-top: 57px;
+
+}
+
+.col-xs-10 h2 {
+    display: block;
+    font-family: 'Changa One', cursive;
+    font-size: 56px;
+    
+    letter-spacing: -2px;
+    line-height: 1;
+    text-transform: uppercase;
+        margin-top: 68px;
+}
+
+
+.huge-margin-bottom {
+margin-bottom: 50px !important;
+}
+.huge-margin-top{
+    margin-top: 50px !important;
+
+}
+.huge-padding-bottom{
+    padding-bottom: 50px !important;
+
+}
+.large-margin-top{
+padding-top: 30px !important;
+}
+.no-padding{
+padding: 0 !important;
+}
+
+
+
+footer {
+	weight:100%;
+	height: 100%;
+	
+	
+}
+
+#footerConfi {
+    background-color: #3a3f46;
+    color: white;
+}
+
+#footerConfi .row {
+    margin-bottom: 60px;
+}
+
+#footerConfi .info{
+    text-align: justify; 
+    color: #afb0b1;
+}
+
+#footerConfi ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+
+#footerConfi h5 {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#footerConfi .logo{
+    margin-top: 10px;
+}
+
+#footerConfi .second-bar .logo a{
+    color:white;
+    font-size: 28px;
+    float: left;
+    font-weight: bold;
+    line-height: 68px;
+    margin: 0;
+    padding: 0;
+}
+
+#footerConfi a {
+    color: #d2d1d1;
+    text-decoration: none;
+}
+
+#footerConfi a:hover,
+#footerConfi a:focus {
+    text-decoration: none;
+    color: white;
+}
+
+#footerConfi .second-bar {
+    text-align: center;
+    background-color: #33373e;
+    text-align: center;
+}
+
+#footerConfi .second-bar a {
+    font-size: 22px;
+    color: #9fa3a9;
+    padding: 10px;
+    transition: 0.2s;
+    line-height: 68px;
+}
+
+#footerConfi .second-bar a:hover {
+    text-decoration: none;
+}
+
+#footerConfi .social-icons {
+    float:right;
+}
+
+
+#footerConfi .facebook:hover {
+    color: #0077e2;
+}
+
+#footerConfi .google:hover {
+    color: #ef1a1a;
+}
+
+#footerConfi .twitter:hover {
+    color: #00aced;
+}
+
+
+.content{
+   flex: 1 0 auto;
+   -webkit-flex: 1 0 auto;
+   min-height: 200px;
+}
+
+#footerConfi{
+   flex: 0 0 auto;
+   -webkit-flex: 0 0 auto;
+}
