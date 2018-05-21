@@ -58,7 +58,7 @@
     margin-left: 51px; ">   -->
     <img src="img/CrieSuaLenda.png" style="margin-left: 30%;
     margin-top: -134px;">
-    <a href="criarPizza.php"><button type="button" class="btn btn-danger" style="font-size: 26px;
+    <a href="criarPizza"><button type="button" class="btn btn-danger" style="font-size: 26px;
     margin-top: 155px;
     margin-left: -315px;">Clique aqui</button></a>
 
@@ -90,7 +90,7 @@
                         </div>
                         <div class="row produto-detalhes text-center">
                         <p style="max-height: none; height: 50px;">
-                            Ricota, tomate seco, alho, queijo muçarela, levemente regado com molho vermelho, pesto e manjericão fresco.
+                            Ricota, tomate seco, alho, queijo mussarela, levemente regado com molho vermelho, pesto e manjericão fresco.
                             
                         </p>
                         
@@ -108,7 +108,7 @@
                         </div>
                         <div class="row produto-detalhes text-center">
                         <p style="max-height: none; height: 50px;">
-                            Ricota, tomate seco, alho, queijo muçarela, levemente regado com molho vermelho, pesto e manjericão fresco.
+                            Ricota, tomate seco, alho, queijo mussarela, levemente regado com molho vermelho, pesto e manjericão fresco.
                             
                         </p>
                         
@@ -125,7 +125,7 @@
                         </div>
                         <div class="row produto-detalhes text-center">
                         <p style="max-height: none; height: 50px;">
-                            Ricota, tomate seco, alho, queijo muçarela, levemente regado com molho vermelho, pesto e manjericão fresco.
+                            Ricota, tomate seco, alho, queijo mussarela, levemente regado com molho vermelho, pesto e manjericão fresco.
                             
                         </p>
                         
@@ -151,7 +151,7 @@
 			<div class="col-xs-10">
 			<h2 class="black">CADASTRE-SE E FAÇA PEDIDOS ONLINE</h2>
 			<p>É gratuito, seguro, rápido e prático. Comece agora e monte seu pedido!</p>
-			<button type="button" class="btn btn-danger text-center" style="font-size: 25px; margin-top: 10px; margin-bottom: 115px;">Criar conta </button>
+			<a href="cad"><button type="button" class="btn btn-danger text-center" style="font-size: 25px; margin-top: 10px; margin-bottom: 115px;">Criar conta </button></a>
 			</div>
 			<div class="fill"> </div>
 		</div>
