@@ -1,0 +1,36 @@
+.top-header{
+    padding:2em 0;
+}
+
+/*----TOPO MENU ---*/
+
+#menu {
+    margin: 12px 0;
+}
+#menu li {
+    font-family: 'Indie Flower', cursive;
+        font-size: 20px;
+}
+#menu ul li {
+    list-style: none;
+    float: left;
+    margin: 0 15px;
+}
+
+
+.pag-pizzas{
+    background-color: #D91E18;
+}
+
+.pag-pizzas a {
+    color: #ea8fa3;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.cadastroUser {
+text-align: center;
+font-size: 18px;
+
+}
