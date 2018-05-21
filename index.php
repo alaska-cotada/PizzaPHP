@@ -106,4 +106,16 @@ $app->get(
     }
 
 );
+
+
+$app->get(
+    '/cad',
+    function () {
+
+        require_once("paginas/cad.php");
+    
+    }
+
+);
+
 $app->run();
